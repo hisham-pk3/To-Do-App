@@ -82,6 +82,13 @@ This clear **unidirectional data flow** ensures that UI remains predictable and 
   Ensured efficient UI updates by allowing Compose to recompose only the parts of the UI that change.  
   Avoided anti-patterns like unnecessary recompositions or mutable shared state outside Compose.
 
+  Example:
+
+  ```kotlin
+
+  val activeItems by remember { derivedStateOf { todoStateList.value.filter { !it.isDone } } }
+  ```
+Used `derivedStateOf`to recompute only when necessary, minimizing unnecessary recompositions and improving efficiency.
 ---
 
 ## 🖼️ Screenshots
