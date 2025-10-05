@@ -79,13 +79,13 @@ This clear **unidirectional data flow** ensures that UI remains predictable and 
 
 ## 🖼️ Screenshots
 
-![Screenshot 1](screenshots/rotation.png)
-![Screenshot 2](screenshots/Three%20items%20added.png)
-![Screenshot 3](screenshots/all%20items%20completed.png)
-![Screenshot 4](screenshots/empty%20alert%20msg.png)
-![Screenshot 5](screenshots/no%20items%20added.png)
-![Screenshot 6](screenshots/one%20done.png)
-![Screenshot 7](screenshots/one%20removed.png)
+![Screenshot 1](screenshots/no%20items%20added.png)
+![Screenshot 2](screenshots/empty%20alert%20msg.png)
+![Screenshot 3](screenshots/Three%20items%20added.png)
+![Screenshot 4](screenshots/one%20done.png)
+![Screenshot 5](screenshots/one%20removed.png)
+![Screenshot 6](screenshots/all%20items%20completed.png)
+![Screenshot 7](screenshots/rotation.png)
 
 ---
 
