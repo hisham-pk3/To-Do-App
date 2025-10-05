@@ -79,15 +79,7 @@ This clear **unidirectional data flow** ensures that UI remains predictable and 
 
 ## 🖼️ Screenshots
 
-| Add Item | Active List | Completed List | Empty State |
-|-----------|--------------|----------------|--------------|
-| ![Add Item](screenshots/s1.png) | ![Active](screenshots/s2.png) | ![Completed](screenshots/s3.png) | ![Empty](screenshots/s4.png) |
-
-| Rotation | Validation | Delete | UI Overview |
-|-----------|-------------|---------|--------------|
-| ![Rotation](screenshots/s5.png) | ![Validation](screenshots/s6.png) | ![Delete](screenshots/s7.png) | ![Overview](screenshots/s8.png) |
-
-> 📸 Place all your screenshots inside the `/screenshots` folder.
+![Screenshot 4](screenshots/ss4.png)
 
 ---
 
