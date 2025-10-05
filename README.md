@@ -88,7 +88,7 @@ This clear **unidirectional data flow** ensures that UI remains predictable and 
 
   val activeItems by remember { derivedStateOf { todoStateList.value.filter { !it.isDone } } }
   ```
-Used `derivedStateOf`to recompute only when necessary, minimizing unnecessary recompositions and improving efficiency.
+  Used `derivedStateOf`to recompute only when necessary, minimizing unnecessary recompositions and improving efficiency.
 ---
 
 ## 🖼️ Screenshots
