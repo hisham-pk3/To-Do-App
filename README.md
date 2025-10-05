@@ -80,7 +80,7 @@ This clear **unidirectional data flow** ensures that UI remains predictable and 
 ## 🖼️ Screenshots
 
 ![Screenshot 1](screenshots/rotation.png)
-![Screenshot 2](screenshots/Three items added.png)
+![Screenshot 2](screenshots/Three_items_added.png)
 ![Screenshot 3](screenshots/all items completed.png)
 ![Screenshot 4](screenshots/empty alert msg.png)
 ![Screenshot 5](screenshots/no items added.png)
