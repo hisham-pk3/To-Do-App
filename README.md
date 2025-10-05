@@ -128,7 +128,7 @@ This clear **unidirectional data flow** ensures that UI remains predictable and 
 ## 👨‍💻 Author
 
 **Hisham Panamthodi Kajahussain**  
-🎓 Graduate Student — Web & Mobile Application Development  
+🎓 Graduate Student (Computer Science)  
 
 ---
 
