@@ -75,10 +75,10 @@ TodoList(
 
 This clear **unidirectional data flow** ensures that UI remains predictable and easy to debug.
 
-### Layout composition
+### 🏗️ Layout composition
   Designed layouts using Compose components such as `Row`, `Column`, `TextField`, `Button`, `Checkbox`, and `IconButton` to build a responsive and declarative UI.
 
-### Understanding recomposition
+### 🔄 Understanding recomposition
   Ensured efficient UI updates by allowing Compose to recompose only the parts of the UI that change.  
   Avoided anti-patterns like unnecessary recompositions or mutable shared state outside Compose.
 
